@@ -1,2 +1,2 @@
-language = "python3"
-run = "python3"
+language = "C++"
+run = "g++ /home/runner/codingTestpublic/DFS_BFS/2606/solution.cpp --std=c++14 && ./a.out"
