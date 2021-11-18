@@ -1,2 +1,2 @@
 language = "C++"
-run = "g++ /home/runner/codingTestpublic/DFS_BFS/2606/solution.cpp --std=c++14 && ./a.out"
+run = "clang++ /home/runner/codingTestpublic/DFS_BFS/2606/solution.cpp --std=c++14 && ./a.out"

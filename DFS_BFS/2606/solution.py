@@ -1,4 +1,5 @@
 from sys import stdin
+
 read = stdin.readline
 dic={}
 for i in range(int(read())):
